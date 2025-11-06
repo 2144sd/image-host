@@ -1,6 +1,6 @@
 {
-  "totalImages": 7,
-  "lastUpdated": "2025-11-06T18:05:10.269Z",
+  "totalImages": 6,
+  "lastUpdated": "2025-11-06T18:05:15.255Z",
   "images": [
     {
       "filename": "WhatsApp Image 2025-10-11 at 18.54.50_ff260278_1.jpg",
@@ -37,12 +37,6 @@
       "cdnUrl": "https://cdn.jsdelivr.net/gh/2144sd/image-host@main/photo_2022-12-02_18-53-48 (2)_6.jpg",
       "uploadedAt": "2025-11-06T17:28:54.317Z",
       "size": "45.02 KB"
-    },
-    {
-      "filename": "WhatsApp Image 2025-10-11 at 18.54.50_ff260278_2.jpg",
-      "cdnUrl": "https://cdn.jsdelivr.net/gh/2144sd/image-host@main/WhatsApp Image 2025-10-11 at 18.54.50_ff260278_2.jpg",
-      "uploadedAt": "2025-11-06T17:28:57.403Z",
-      "size": "197.98 KB"
     }
   ]
 }
