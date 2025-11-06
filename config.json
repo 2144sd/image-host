@@ -1,5 +1,27 @@
 {
   "owner": "2144sd",
   "repo": "image-host",
-  "uploads": []
+  "uploads": [
+    {
+      "success": true,
+      "filename": "360_F_441430020_IeZ8eWTDDB94hB5nj7U6BAsV70goZEZr_2.jpg",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/2144sd/image-host@main/360_F_441430020_IeZ8eWTDDB94hB5nj7U6BAsV70goZEZr_2.jpg",
+      "shortUrl": "http://localhost/s/nf96ci",
+      "timestamp": "2025-11-06T17:15:57.549Z"
+    },
+    {
+      "success": true,
+      "filename": "jcb-76-hp-backhoe-loader-3dx-ecoxcellence_1.png",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/2144sd/image-host@main/jcb-76-hp-backhoe-loader-3dx-ecoxcellence_1.png",
+      "shortUrl": "http://localhost/s/hai6if",
+      "timestamp": "2025-11-06T17:16:03.966Z"
+    },
+    {
+      "success": true,
+      "filename": "photo_2022-12-02_18-53-48 (2)_3.jpg",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/2144sd/image-host@main/photo_2022-12-02_18-53-48 (2)_3.jpg",
+      "shortUrl": "http://localhost/s/v6a2vb",
+      "timestamp": "2025-11-06T17:16:07.045Z"
+    }
+  ]
 }
